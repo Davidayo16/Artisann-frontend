@@ -22,7 +22,7 @@ export default function HomePage() {
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
               <Link
-                to="/search"
+                to="/artisans"
                 className="px-6 py-3 bg-[#1f4f9c] text-white rounded-lg font-medium hover:bg-[#1a4689] transition-colors w-full sm:w-auto text-center"
               >
                 Find Artisans
